@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(218, 188, 244);
+}
+.border{
+  border: 6px solid rgb(43, 3, 92)!important;
+  border-radius: 10px;
+}
+.container{
+  margin-left: auto!important;
+}
+
+
